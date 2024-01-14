@@ -1,0 +1,11 @@
+
+    .open {
+        @apply text-lightGray bg-white;
+    } 
+
+    .close {
+        @apply !text-[#1c1f34] !bg-[#1c1f34];
+    } 
+    .done {
+        @apply text-white font-bold !bg-[#ffa700];
+    } 
